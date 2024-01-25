@@ -8,7 +8,7 @@
 
 ## Work Experience
 **IT Analyst @ PT. Bunga Plum Logistik (_Jul 2021 - Present_)**
-### A container depot company under the management of OOCL Logistics which plays a role in the handling and maintaining of OOCL containers.
+*** A container depot company under the management of OOCL Logistics which plays a role in the handling and maintaining of OOCL containers.***
 - IT Master Plan
 - Analyze business requirements by partnering with key stakeholders across the organization to develop solutions for IT needs.
 - Create a budgeting program for IT needs such as procurement of IT infrastructure and internal company software.
