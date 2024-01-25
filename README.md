@@ -3,8 +3,8 @@
 #### Technical Skills: Python, Project Management, Risk Management, Project Scooping and Planning, Data Visualization.
 
 ## Education					       		
-- M.T.I. | Indonesia University (2020 - 2022) 			        		
-- S.T. | Sekolah Tinggi Teknik PLN/Institut Teknologi PLN (2014-2019)
+- M.T.I.|Indonesia University (2020 - 2022) 			        		
+- S.T.|Sekolah Tinggi Teknik PLN/Institut Teknologi PLN (2014-2019)
 
 ## Work Experience
 **IT Analyst @ PT. Bunga Plum Logistik (_Jul 2021 - Present_)**
