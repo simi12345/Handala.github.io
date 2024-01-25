@@ -12,8 +12,9 @@
 - IT Master Plan
 - Analyze business requirements by partnering with key stakeholders across the organization to develop solutions for IT needs.
 - Create a budgeting program for IT needs such as procurement of IT infrastructure and internal company software.
+- Weekly Report OKR Company Activity.
 - Report IT problems to stakeholders in the depot and find solutions.
-- Controlled and evaluated the performance of the CS and MNR team regarding outstanding payments, so it cannot exceed 60 days.
+- Controlled and evaluated the performance of the CS and MNR team regarding outstanding payments.
 - Troubleshoot hardware and software issues related to internal IT.
 
 **IT Staff @ PT. Depo Lautan Nusantara (_Mar 2019 - Jul 2021_)**
@@ -31,17 +32,8 @@
 
 ## Projects
 ### Project IT Management at Belawan depot brach
-#[Publication](https://www.mdpi.com/1424-8220/22/8/3048)
-
-#Developed
-
-#![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
-
 ### Set up EDI CODECO between DLN and Maersk
-#[Publication](https://www.mdpi.com/1424-8220/22/11/4240)
-
 ### Installation Network and CCTV
-
 ### Deployment, Maintenance, and Training DMS (Depot Management System) 
 ### Create SOP for all Business Unit
 
