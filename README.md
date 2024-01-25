@@ -17,14 +17,14 @@
 - Troubleshoot hardware and software issues related to internal IT.
 
 **IT Staff @ PT. Depo Lautan Nusantara (_Mar 2019 - Jul 2021_)**
-### A container depot company under the management of Temas Tbk, that carries out loading, unloading, and maintenance of containers on an international scale.
+##### A container depot company under the management of Temas Tbk, that carries out loading, unloading, and maintenance of containers on an international scale.
 - Make IT budgeting for company business solutions.
 - Troubleshoot hardware and software on the internal company.
 - Create and supervise EDI processes for customers.
 - Define IT infrastructure strategy, architecture, and processes.
 
 **Business Analyst @ Belanjagampang (_Oct 2018 - Nov 2018_)**
-### A company that provides credit purchases, data packages, PLN tokens, and other payments with smartphones.
+##### A company that provides credit purchases, data packages, PLN tokens, and other payments with smartphones.
 - Create UML from each stage of application development.
 - Perform presentations to stakeholders about the belanjagampang process business.
 
