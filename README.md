@@ -36,6 +36,8 @@
 ### Installation Network and CCTV
 ### Deployment, Maintenance, and Training DMS (Depot Management System) 
 ### Create SOP for all Business Unit
+### Social Media Analyst
+### Operational Visualization Report
 
 ## Training & Achievements 
 - Google Project Management Certification (_Coursera - 2023_)
