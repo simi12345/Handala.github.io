@@ -31,7 +31,7 @@
 
 
 ## Projects
-### Project IT Management at Belawan Depot Brach
+### [Project IT Management at Belawan Depot Brach](https://github.com/simi12345/IT-Management-at-Belawan-Depot-Branch/blob/main/README.md)
 ### Set up EDI CODECO between DLN and Maersk
 ### Installation Network and CCTV
 ### [Deployment, Maintenance, and Training DMS (Depot Management System)](https://github.com/simi12345/handala-DMS-Implementation/blob/main/README.md)
