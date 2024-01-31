@@ -36,7 +36,7 @@
 ### Installation Network and CCTV
 ### [Deployment, Maintenance, and Training DMS (Depot Management System)](https://github.com/simi12345/handala-DMS-Implementation/blob/main/README.md)
 ### Create SOP for all Business Units
-### Social Media Analyst
+### Social Network Analysis
 ### [Operational Visualization Report](https://github.com/simi12345/Operational-Visualization-Report)
 ### Manage IT Infrastructure
 ### Company Profile
