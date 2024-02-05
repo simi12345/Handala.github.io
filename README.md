@@ -39,7 +39,7 @@
 ### [Social Network Analysis](https://github.com/simi12345/Sentiment-Analysis/tree/main)
 ### [Operational Visualization Report](https://github.com/simi12345/Operational-Visualization-Report)
 ### Manage IT Infrastructure
-### Company Profile
+### [Company Profile](https://github.com/simi12345/Company-Profile/tree/main)
 
 ## Training & Achievements 
 - Google Project Management Certification (_Coursera - 2023_)
