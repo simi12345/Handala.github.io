@@ -33,7 +33,6 @@
 ## Projects
 ### [Project IT Management at Belawan Depot Brach](https://github.com/simi12345/IT-Management-at-Belawan-Depot-Branch/blob/main/README.md)
 ### Set up EDI CODECO between DLN and Maersk
-### Installation Network and CCTV
 ### [Deployment, Maintenance, and Training DMS (Depot Management System)](https://github.com/simi12345/handala-DMS-Implementation/blob/main/README.md)
 ### Create SOP for all Business Units
 ### [Social Network Analysis](https://github.com/simi12345/Sentiment-Analysis/tree/main)
